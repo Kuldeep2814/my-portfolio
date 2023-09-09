@@ -1,0 +1,18 @@
+[
+    {
+      "title": "GYM WEBSITE",
+      "imageSrc": "projects/project.png",
+      "description": "A gym website is designed to serve as an online hub where you can search for exercises, exercises targeting specific muscle groups, and similar equipment. A GIF will show you how to exercise and also get some YouTube video reference. All the exercises fetched from API.",
+      "skills": ["React", "Material UI"],
+      "demo": "https://nimble-cucurucho-4bd2d9.netlify.app/",
+      "source": "https://github.com/Kuldeep2814/gym_exercises.git"
+    },
+    {
+      "title": "NETFLIX -CLONE",
+      "imageSrc": "projects/project.png",
+      "description": "The project aims to create a user-friendly and visually appealing streaming platform where you can find movies according to different genres, with sign-in and sign-out functionality, and also purchase plans according to your preference using the Stripe payment gateway.",
+      "skills": ["React", "Redux"],
+      "demo": "https://netflix-build-new-6d836.web.app/",
+      "source": "https://github.com/Kuldeep2814/netflix-build.git"
+    }
+  ]
