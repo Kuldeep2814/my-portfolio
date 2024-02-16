@@ -1,22 +1,34 @@
 [
-    {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "JavaScript",
-      "imageSrc": "skills/javascript.png"
-    },
-    {
-      "title": "SQL",
-      "imageSrc": "skills/sql.png"
-    }
-  ]
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "Next.js",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
+    "title": "Supabase",
+    "imageSrc": "skills/supabase.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  }
+]

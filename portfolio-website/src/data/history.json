@@ -1,18 +1,37 @@
 [
-    {
-      "role": "TEACHING ASSISTANT",
-      "organisation": "REAL CONCEPT INSTITUTE",
-      "startDate": "July, 2022",
-      "endDate": "August, 2023",
-      "experiences": ["As a teaching assistant for JavaScript", "My role involves facilitating learning experiences for students.", "I assist in explaining core JavaScript concepts."],
-      "imageSrc": "history/rci.png"
-    },
-    {
-      "role": "CHEMISTRY TEACHER",
-      "organisation": "VIVEK SIR CLASSES",
-      "startDate": "May, 2020",
-      "endDate": "June, 2022",
-      "experiences": ["Inspires students through hands-on learning", "Fostering a profound understanding and enthusiasm for chemistry."],
-      "imageSrc": "history/vsc.png"
-    }
-  ]
+  {
+    "role": "Front End Developer Intern",
+    "organisation": "AntStack",
+    "startDate": "November, 2023",
+    "endDate": "February, 2024",
+    "experiences": [
+      "Developed interactive features and enhanced user experience using JavaScript and TypeScript.",
+      "Built scalable and efficient web applications with React.js and Next.js frameworks.",
+      "Collaborated with senior developers to meet project objectives and adhere to coding standards."
+    ],
+    "imageSrc": "history/antstack.png"
+  },
+  {
+    "role": "Front End Developer Intern",
+    "organisation": "i-Plexus Technologies",
+    "startDate": "August, 2023",
+    "endDate": "October, 2023",
+    "experiences": [
+      "Collaborated on web application development using HTML, CSS, JavaScript, and React.js.",
+      "Collaborated with senior developers to meet project objectives and adhere to coding standards.",
+      "Facilitated team collaboration, employed version control, and maintained thorough documentation."
+    ],
+    "imageSrc": "history/i-plexus.png"
+  },
+  {
+    "role": "CHEMISTRY TEACHER",
+    "organisation": "REAL CONCEPT INSTITUTE",
+    "startDate": "June, 2019",
+    "endDate": "June, 2023",
+    "experiences": [
+      "Inspires students through hands-on learning",
+      "Fostering a profound understanding and enthusiasm for chemistry."
+    ],
+    "imageSrc": "history/vsc.png"
+  }
+]
